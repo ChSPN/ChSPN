@@ -1,7 +1,7 @@
 # 👋 Hello, je suis Charlène Scomparin  
 Développeuse .NET | Passionnée par Blazor, Docker et les technologies Microsoft 💻  
 
-🌱 **En recherche d’une alternance de 24 mois (dès août 2025)**  
+🌱 **En alternance dès la rentrée 2025**  
 📍 Basée à Lille | Télétravail possible  
 🚀 Actuellement en stage chez GreenBig  
 
